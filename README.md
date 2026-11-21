@@ -28,3 +28,7 @@ During my research internship at **IIT Kanpur**, I worked on concurrent data exc
 | **Languages** | Java · Python · JavaScript · SQL · C++ |
 | **Web and data** | Node.js · Express · React · MongoDB · MySQL |
 | **Machine learning and cloud** | TensorFlow · scikit-learn · AWS EC2 · AWS S3 |
+
+## Logic puzzles
+
+Try the [Codebreaker collection](codebreaker/README.md). Each puzzle has a unique three-digit solution you can check after solving.
